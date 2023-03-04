@@ -1,0 +1,38 @@
+.feedback {
+    padding-bottom: 71px;
+    &-block {
+        margin-top: 70px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 100px;
+        &__img {
+            margin-right: 60px;
+        }
+        &__name {
+            color: #0d0d0d;
+            font-size: 18px;
+            font-weight: 700;
+        }
+        &__stats {
+            margin-top: 10px;
+            color: #646464;
+            font-size: 14px;
+            font-weight: 300;
+        }
+        &__descr, &__subdescr, &__thanks {
+            margin-top: 19px;
+            color: #0d0d0d;
+            font-size: 16px;
+            font-weight: 300;
+        }
+        &__subdescr {
+            margin-top: 20px;
+        }
+        &__thanks {
+            margin-top: 25px;
+        }
+        &_mb0 {
+            margin-bottom: 0;
+        }
+    }
+}

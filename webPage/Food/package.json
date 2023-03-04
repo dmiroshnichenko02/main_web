@@ -1,0 +1,26 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmiroshnichenko02/JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmiroshnichenko02/JS/issues"
+  },
+  "homepage": "https://github.com/dmiroshnichenko02/JS#readme",
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  },
+  "dependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
